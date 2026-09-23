@@ -1,0 +1,21 @@
+.carousel-item img {
+ 
+    height: 530px;
+ 
+    object-fit: cover;
+ 
+  }
+ 
+  .card {
+ 
+    height: 1000%;
+ 
+    transition: 0.3s;
+ 
+  }
+
+  .card:hover {
+
+    transform: translateY(-5px);
+ 
+  }
